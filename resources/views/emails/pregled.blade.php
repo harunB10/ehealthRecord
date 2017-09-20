@@ -1,0 +1,1 @@
+Vaš termin je potvrđen.

@@ -1,0 +1,1 @@
+Korisnik <h4> {{ Auth::user()->name }}</h4> je kreirao korisnički zahtjev za otvaranje e-Zdravstvenog Kartona!
